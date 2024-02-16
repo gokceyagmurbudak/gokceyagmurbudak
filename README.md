@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Gökçe <p align="center">
 
 </p></h1>
-<h3 align="center">I'm Geomatics Engineer - GIS, Computer Vision and AI Developer.</h3>
-<h3 align="center">Enthusiastic student capable of in-depth study and application of studies in Data Science, Visual and Geospatial Management. </h3>
+<h3 align="center">I'm Geomatics Engineer</h3>
+<h3 align="center">Enthusiastic student capable of in-depth study and application of studies in Data Science, Remote Sensing and Geospatial Analysis. </h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=gokceyagmurbudak&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
