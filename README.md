@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=gokceyagmurbudak&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 📩 Connect with me:
-<a href="https://www.linkedin.com/in/gökçe-yağmur-budak-1820a5179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gökçe-yağmur-b-1820a5179/" height="40" width="40" /></a> 📫 **gokcebudak51@gmail.com**
+<a href="https://www.linkedin.com/in/gökçe-yağmur-b-1820a5179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gökçe-yağmur-b-1820a5179/" height="40" width="40" /></a> 📫 **gokcebudak51@gmail.com**
 
 
 ## 💻 Tech Stack:
